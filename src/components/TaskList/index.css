@@ -1,0 +1,15 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.table{
+    background-color: white;
+    border-color: black;
+}
+
+thead{
+    background-color: white;
+}
+h2{
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .filter, .sort{
+    font-weight: bold;
+    margin-right: 5px;
+  }
